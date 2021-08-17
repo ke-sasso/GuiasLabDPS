@@ -17,7 +17,6 @@ return (
 <div className="App-content">
 <p>
 Aquí haremos nuestro TO-DO list
-{holaMundo('Kevin',23)}
 </p>
 <Form/>
 </div>
